@@ -398,61 +398,43 @@ body.dark-theme {
 }
 
 /*=============== Insert SKILLS values ===============*/
-.skills__c {
-  width: 80%;
-}
-
-.skills__java {
+.skills__web {
   width: 90%;
 }
 
-.skills__web {
+.skills__js {
   width: 95%;
+}
+
+.skills__react {
+  width: 90%;
+}
+
+.skills__node {
+  width: 70%;
+}
+
+.skills__progs {
+  width: 80%;
+}
+
+.skills__android {
+  width: 60%;
 }
 
 .skills__db {
   width: 80%;
 }
 
-.skills__assembly {
-  width: 70%;
+.skills__docker {
+  width: 40%;
 }
 
-.skills__ps {
-  width: 90%;
-}
-
-.skills__ccpl {
-  width: 100%;
-}
-
-.skills_will_learn {
-  width: 100%;
-}
-
-.skills_ta {
-  width: 95%;
-}
-
-.skills_tf {
-  width: 90%;
-}
-
-.skills_lmo {
-  width: 90%;
-}
-
-.skills_pst {
-  width: 95%;
-}
-.skills_dra {
-  width: 90%;
-}
 .skills__english {
-  width: 60%;
+  width: 80%;
 }
 .skills__french {
-  width: 40%;
+  width: 60%;
 }
 
 /*=============== QUALIFICATION ===============*/
